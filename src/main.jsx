@@ -1,6 +1,6 @@
 import React from 'react'
 import { createRoot } from 'react-dom/client'
-import './MY PROJECT/Signup.css'
+
 // import App from './Axios.jsx'
 
 import { BrowserRouter } from 'react-router-dom';
